@@ -1,3 +1,13 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v25.0.1...v) (2024-07-21)
+
+
+### Bug Fixes
+
+* adding additional logging when importing/requiring a module in case the hook script is invalid or unable to be executed ([#8356](https://github.com/electron-userland/electron-builder/issues/8356)) ([2541eb6](https://github.com/electron-userland/electron-builder/commit/2541eb62a6a8338c87f3d032ff48ed154c2d3cca))
+* **docs): Revert "chore(deps:** update dependency mkdocs to <1.7 ([#8350](https://github.com/electron-userland/electron-builder/issues/8350))" ([#8366](https://github.com/electron-userland/electron-builder/issues/8366)) ([30baa4f](https://github.com/electron-userland/electron-builder/commit/30baa4fe8ddc4c992eafadfb45a16cbd2f7907af))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v25.0.0...v) (2024-07-18)
 
 

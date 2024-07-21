@@ -1,5 +1,17 @@
 # app-builder-lib
 
+## 25.0.2
+
+### Patch Changes
+
+- [#8356](https://github.com/electron-userland/electron-builder/pull/8356) [`2541eb62`](https://github.com/electron-userland/electron-builder/commit/2541eb62a6a8338c87f3d032ff48ed154c2d3cca) Thanks [@mmaietta](https://github.com/mmaietta)! - fix: adding additional logging when importing/requiring a module in case the hook script is invalid or unable to be executed
+
+- [#8364](https://github.com/electron-userland/electron-builder/pull/8364) [`2a0ea65c`](https://github.com/electron-userland/electron-builder/commit/2a0ea65caad1067a193b72d684e7c1f95cdecce5) Thanks [@mmaietta](https://github.com/mmaietta)! - chore(deps): update babel monorepo
+
+- Updated dependencies []:
+  - dmg-builder@25.0.2
+  - electron-builder-squirrel-windows@25.0.2
+
 ## 25.0.1
 
 ### Patch Changes
